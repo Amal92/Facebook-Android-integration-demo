@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Facebook demo</string>
+    <string name="facebook_app_id">YOUR FACEBOOK APP ID</string>
+</resources>
